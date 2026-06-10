@@ -190,9 +190,3 @@ R²     : 0.9918
 * Explainable AI with SHAP values
 * Cloud deployment with Docker and CI/CD
 * REST API integration
-
----
-
-## Author
-
-Developed as a Machine Learning project for Electric Vehicle Battery Capacity Prediction using TensorFlow and Streamlit.
