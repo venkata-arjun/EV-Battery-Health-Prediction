@@ -1,0 +1,77 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----------------------------
+# Virtual Environment
+# ----------------------------
+venv/
+env/
+ENV/
+.venv/
+
+# ----------------------------
+# Jupyter Notebook
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# VS Code
+# ----------------------------
+.vscode/
+
+# ----------------------------
+# OS Files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Python Environment Files
+# ----------------------------
+.python-version
+
+# ----------------------------
+# Streamlit Cache
+# ----------------------------
+.streamlit/
+
+# ----------------------------
+# Build & Distribution
+# ----------------------------
+build/
+dist/
+*.egg-info/
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+
+# ----------------------------
+# Environment Variables
+# ----------------------------
+.env
+
+# ----------------------------
+# Model Files (Keep if repository is large)
+# Uncomment if you don't want to upload trained models
+# ----------------------------
+# models/*.keras
+# models/*.pkl
+
+# ----------------------------
+# Dataset (Optional)
+# Uncomment if dataset is too large
+# ----------------------------
+# data/raw_data/
+# data/extra_infos/
+
+# ----------------------------
+# Misc
+# ----------------------------
+*.tmp
+*.bak
